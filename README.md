@@ -1,2 +1,2 @@
-# developerbootcamp.github.io
+# developerbootcamp
 This is a test website.
